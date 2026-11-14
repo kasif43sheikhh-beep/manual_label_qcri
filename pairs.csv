@@ -1,0 +1,901 @@
+Pair_ID,Sentence_1,Sentence_2
+1,The manager explained the results this morning.,The boss clarified the findings earlier today.
+2,The manager updated the project on Monday.,The boss revised the assignment at the start of the week.
+3,The customer announced the new plan this morning.,The client made public the latest proposal earlier today.
+4,The chef cancelled the contract last week.,The cook called off the agreement in the previous week.
+5,The company announced the report before noon.,The report was announced by the company ahead of midday.
+6,The chef announced the meeting on Monday.,The meeting was announced by the chef at the start of the week.
+7,The driver prepared the project last week.,The chauffeur put together the assignment in the previous week.
+8,The teacher prepared the contract before noon.,The instructor put together the agreement ahead of midday.
+9,The customer completed the order before noon.,The order was completed by the customer ahead of midday.
+10,The engineer prepared the order last week.,The technician put together the request in the previous week.
+11,The chef completed the new plan last week.,The cook finished the latest proposal in the previous week.
+12,The doctor explained the report on Monday.,The physician clarified the document at the start of the week.
+13,The engineer rejected the budget this morning.,The budget was rejected by the engineer earlier today.
+14,The student cancelled the contract this morning.,The contract was cancelled by the student earlier today.
+15,The engineer completed the report before noon.,The report was completed by the engineer ahead of midday.
+16,The company approved the results on Monday.,The firm signed off on the findings at the start of the week.
+17,The driver submitted the schedule yesterday.,The chauffeur handed in the timetable the day before.
+18,The company prepared the schedule last week.,The firm put together the timetable in the previous week.
+19,The doctor prepared the report yesterday.,The physician put together the document the day before.
+20,The customer updated the project this morning.,The client revised the assignment earlier today.
+21,The teacher rejected the project this morning.,The project was rejected by the teacher earlier today.
+22,The teacher updated the design last week.,The instructor revised the layout in the previous week.
+23,The doctor cancelled the project yesterday.,The physician called off the assignment the day before.
+24,The student approved the project this morning.,The pupil signed off on the assignment earlier today.
+25,The company cancelled the budget last week.,The budget was cancelled by the company in the previous week.
+26,The doctor announced the design on Monday.,The physician made public the layout at the start of the week.
+27,The engineer approved the contract on Monday.,The technician signed off on the agreement at the start of the week.
+28,The student updated the order on Monday.,The pupil revised the request at the start of the week.
+29,The teacher announced the order this morning.,The instructor made public the request earlier today.
+30,The driver submitted the budget on Monday.,The budget was submitted by the driver at the start of the week.
+31,The doctor announced the budget on Monday.,The physician made public the financial plan at the start of the week.
+32,The company approved the meeting on Monday.,The meeting was approved by the company at the start of the week.
+33,The company explained the results this morning.,The firm clarified the findings earlier today.
+34,The engineer prepared the budget last week.,The technician put together the financial plan in the previous week.
+35,The customer updated the contract before noon.,The contract was updated by the customer ahead of midday.
+36,The doctor completed the design this morning.,The physician finished the layout earlier today.
+37,The driver updated the new plan before noon.,The new plan was updated by the driver ahead of midday.
+38,The customer explained the report before noon.,The report was explained by the customer ahead of midday.
+39,The doctor completed the schedule before noon.,The physician finished the timetable ahead of midday.
+40,The manager cancelled the schedule yesterday.,The schedule was cancelled by the manager the day before.
+41,The doctor rejected the design before noon.,The physician turned down the layout ahead of midday.
+42,The driver approved the results yesterday.,The chauffeur signed off on the findings the day before.
+43,The driver submitted the new plan last week.,The new plan was submitted by the driver in the previous week.
+44,The company approved the contract this morning.,The firm signed off on the agreement earlier today.
+45,The student rejected the new plan yesterday.,The pupil turned down the latest proposal the day before.
+46,The teacher prepared the project yesterday.,The instructor put together the assignment the day before.
+47,The student updated the meeting last week.,The pupil revised the session in the previous week.
+48,The doctor reviewed the schedule yesterday.,The physician went over the timetable the day before.
+49,The driver cancelled the project last week.,The chauffeur called off the assignment in the previous week.
+50,The student reviewed the schedule on Monday.,The pupil went over the timetable at the start of the week.
+51,The doctor cancelled the design yesterday.,The physician called off the layout the day before.
+52,The team reviewed the schedule yesterday.,The schedule was reviewed by the team the day before.
+53,The engineer cancelled the design this morning.,The technician called off the layout earlier today.
+54,The doctor approved the project last week.,The physician signed off on the assignment in the previous week.
+55,The company updated the order yesterday.,The order was updated by the company the day before.
+56,The engineer updated the contract yesterday.,The technician revised the agreement the day before.
+57,The manager announced the design this morning.,The boss made public the layout earlier today.
+58,The doctor reviewed the project on Monday.,The physician went over the assignment at the start of the week.
+59,The chef prepared the design last week.,The cook put together the layout in the previous week.
+60,The student prepared the design this morning.,The pupil put together the layout earlier today.
+61,The manager announced the new plan last week.,The boss made public the latest proposal in the previous week.
+62,The manager announced the results before noon.,The results was announced by the manager ahead of midday.
+63,The engineer rejected the new plan yesterday.,The technician turned down the latest proposal the day before.
+64,The driver cancelled the schedule yesterday.,The schedule was cancelled by the driver the day before.
+65,The customer prepared the design before noon.,The client put together the layout ahead of midday.
+66,The manager prepared the design before noon.,The boss put together the layout ahead of midday.
+67,The chef updated the new plan this morning.,The cook revised the latest proposal earlier today.
+68,The doctor reviewed the order on Monday.,The physician went over the request at the start of the week.
+69,The customer approved the schedule before noon.,The client signed off on the timetable ahead of midday.
+70,The manager approved the meeting last week.,The boss signed off on the session in the previous week.
+71,The company cancelled the schedule last week.,The firm called off the timetable in the previous week.
+72,The student rejected the design on Monday.,The pupil turned down the layout at the start of the week.
+73,The team cancelled the new plan yesterday.,The group called off the latest proposal the day before.
+74,The chef updated the project on Monday.,The cook revised the assignment at the start of the week.
+75,The student rejected the results last week.,The pupil turned down the findings in the previous week.
+76,The doctor updated the report before noon.,The physician revised the document ahead of midday.
+77,The team submitted the project before noon.,The group handed in the assignment ahead of midday.
+78,The engineer updated the meeting before noon.,The meeting was updated by the engineer ahead of midday.
+79,The chef completed the contract yesterday.,The cook finished the agreement the day before.
+80,The chef prepared the project yesterday.,The cook put together the assignment the day before.
+81,The engineer rejected the results before noon.,The results was rejected by the engineer ahead of midday.
+82,The team rejected the schedule yesterday.,The group turned down the timetable the day before.
+83,The engineer completed the contract on Monday.,The contract was completed by the engineer at the start of the week.
+84,The company rejected the schedule on Monday.,The firm turned down the timetable at the start of the week.
+85,The teacher submitted the meeting last week.,The instructor handed in the session in the previous week.
+86,The engineer announced the budget last week.,The technician made public the financial plan in the previous week.
+87,The customer reviewed the order on Monday.,The client went over the request at the start of the week.
+88,The manager updated the project on Monday.,The project was updated by the manager at the start of the week.
+89,The doctor rejected the schedule yesterday.,The schedule was rejected by the doctor the day before.
+90,The student rejected the project last week.,The project was rejected by the student in the previous week.
+91,The company announced the schedule last week.,The firm made public the timetable in the previous week.
+92,The team updated the report last week.,The group revised the document in the previous week.
+93,The customer announced the budget on Monday.,The budget was announced by the customer at the start of the week.
+94,The driver cancelled the results on Monday.,The chauffeur called off the findings at the start of the week.
+95,The customer submitted the schedule this morning.,The client handed in the timetable earlier today.
+96,The driver rejected the new plan on Monday.,The chauffeur turned down the latest proposal at the start of the week.
+97,The team completed the contract this morning.,The group finished the agreement earlier today.
+98,The driver cancelled the new plan before noon.,The chauffeur called off the latest proposal ahead of midday.
+99,The doctor approved the results yesterday.,The physician signed off on the findings the day before.
+100,The doctor submitted the new plan before noon.,The physician handed in the latest proposal ahead of midday.
+101,The student explained the results on Monday.,The results was explained by the student at the start of the week.
+102,The team prepared the meeting before noon.,The group put together the session ahead of midday.
+103,The driver prepared the project before noon.,The project was prepared by the driver ahead of midday.
+104,The manager rejected the report on Monday.,The report was rejected by the manager at the start of the week.
+105,The customer explained the results on Monday.,The client clarified the findings at the start of the week.
+106,The team approved the schedule yesterday.,The schedule was approved by the team the day before.
+107,The driver explained the order yesterday.,The chauffeur clarified the request the day before.
+108,The chef explained the order this morning.,The order was explained by the chef earlier today.
+109,The engineer explained the order this morning.,The technician clarified the request earlier today.
+110,The chef reviewed the schedule on Monday.,The cook went over the timetable at the start of the week.
+111,The engineer reviewed the schedule yesterday.,The schedule was reviewed by the engineer the day before.
+112,The student explained the design before noon.,The design was explained by the student ahead of midday.
+113,The customer rejected the results on Monday.,The client turned down the findings at the start of the week.
+114,The company reviewed the project yesterday.,The project was reviewed by the company the day before.
+115,The team completed the results yesterday.,The group finished the findings the day before.
+116,The engineer approved the meeting yesterday.,The meeting was approved by the engineer the day before.
+117,The team approved the budget on Monday.,The budget was approved by the team at the start of the week.
+118,The team reviewed the budget this morning.,The budget was reviewed by the team earlier today.
+119,The team submitted the design on Monday.,The group handed in the layout at the start of the week.
+120,The student explained the report this morning.,The report was explained by the student earlier today.
+121,The doctor approved the results last week.,The physician signed off on the findings in the previous week.
+122,The engineer announced the project yesterday.,The technician made public the assignment the day before.
+123,The doctor submitted the results on Monday.,The physician handed in the findings at the start of the week.
+124,The team reviewed the budget last week.,The group went over the financial plan in the previous week.
+125,The manager submitted the budget this morning.,The boss handed in the financial plan earlier today.
+126,The customer submitted the results yesterday.,The client handed in the findings the day before.
+127,The student explained the new plan before noon.,The pupil clarified the latest proposal ahead of midday.
+128,The student updated the order yesterday.,The pupil revised the request the day before.
+129,The student rejected the meeting before noon.,The pupil turned down the session ahead of midday.
+130,The team reviewed the order this morning.,The group went over the request earlier today.
+131,The teacher announced the project on Monday.,The instructor made public the assignment at the start of the week.
+132,The driver explained the design last week.,The chauffeur clarified the layout in the previous week.
+133,The chef submitted the results last week.,The results was submitted by the chef in the previous week.
+134,The teacher submitted the meeting yesterday.,The instructor handed in the session the day before.
+135,The driver updated the order last week.,The chauffeur revised the request in the previous week.
+136,The teacher submitted the design last week.,The design was submitted by the teacher in the previous week.
+137,The driver rejected the results yesterday.,The chauffeur turned down the findings the day before.
+138,The manager approved the meeting before noon.,The boss signed off on the session ahead of midday.
+139,The company approved the design yesterday.,The firm signed off on the layout the day before.
+140,The manager cancelled the meeting before noon.,The boss called off the session ahead of midday.
+141,The doctor announced the new plan before noon.,The physician made public the latest proposal ahead of midday.
+142,The chef completed the project yesterday.,The project was completed by the chef the day before.
+143,The team rejected the new plan this morning.,The new plan was rejected by the team earlier today.
+144,The student completed the budget this morning.,The pupil finished the financial plan earlier today.
+145,The teacher cancelled the new plan on Monday.,The instructor called off the latest proposal at the start of the week.
+146,The teacher reviewed the schedule yesterday.,The instructor went over the timetable the day before.
+147,The company completed the contract yesterday.,The firm finished the agreement the day before.
+148,The customer completed the design last week.,The client finished the layout in the previous week.
+149,The manager approved the order last week.,The boss signed off on the request in the previous week.
+150,The manager reviewed the report last week.,The boss went over the document in the previous week.
+151,The driver announced the contract on Monday.,The contract was announced by the driver at the start of the week.
+152,The student prepared the project last week.,The pupil put together the assignment in the previous week.
+153,The customer rejected the project on Monday.,The project was rejected by the customer at the start of the week.
+154,The engineer cancelled the contract yesterday.,The contract was cancelled by the engineer the day before.
+155,The customer prepared the meeting on Monday.,The client put together the session at the start of the week.
+156,The manager submitted the order this morning.,The boss handed in the request earlier today.
+157,The driver cancelled the report on Monday.,The chauffeur called off the document at the start of the week.
+158,The manager reviewed the report yesterday.,The boss went over the document the day before.
+159,The doctor rejected the report on Monday.,The physician turned down the document at the start of the week.
+160,The doctor explained the results before noon.,The physician clarified the findings ahead of midday.
+161,The team submitted the order yesterday.,The group handed in the request the day before.
+162,The teacher prepared the schedule last week.,The schedule was prepared by the teacher in the previous week.
+163,The student announced the new plan this morning.,The pupil made public the latest proposal earlier today.
+164,The student submitted the report last week.,The report was submitted by the student in the previous week.
+165,The manager cancelled the order on Monday.,The boss called off the request at the start of the week.
+166,The doctor announced the meeting before noon.,The physician made public the session ahead of midday.
+167,The driver completed the results before noon.,The results was completed by the driver ahead of midday.
+168,The chef announced the new plan before noon.,The cook made public the latest proposal ahead of midday.
+169,The manager completed the order before noon.,The boss finished the request ahead of midday.
+170,The student approved the new plan this morning.,The pupil signed off on the latest proposal earlier today.
+171,The manager rejected the project last week.,The boss turned down the assignment in the previous week.
+172,The engineer announced the design on Monday.,The technician made public the layout at the start of the week.
+173,The student rejected the budget last week.,The pupil turned down the financial plan in the previous week.
+174,The customer announced the schedule last week.,The client made public the timetable in the previous week.
+175,The driver rejected the contract before noon.,The chauffeur turned down the agreement ahead of midday.
+176,The team prepared the order yesterday.,The order was prepared by the team the day before.
+177,The chef cancelled the design this morning.,The cook called off the layout earlier today.
+178,The doctor reviewed the report this morning.,The physician went over the document earlier today.
+179,The company approved the results this morning.,The firm signed off on the findings earlier today.
+180,The company submitted the report yesterday.,The firm handed in the document the day before.
+181,The manager approved the budget on Monday.,The boss signed off on the financial plan at the start of the week.
+182,The engineer completed the report this morning.,The report was completed by the engineer earlier today.
+183,The driver reviewed the order yesterday.,The chauffeur went over the request the day before.
+184,The customer cancelled the meeting last week.,The client called off the session in the previous week.
+185,The student reviewed the schedule yesterday.,The pupil went over the timetable the day before.
+186,The engineer updated the order last week.,The technician revised the request in the previous week.
+187,The teacher approved the results on Monday.,The instructor signed off on the findings at the start of the week.
+188,The manager submitted the report last week.,The boss handed in the document in the previous week.
+189,The driver reviewed the schedule on Monday.,The chauffeur went over the timetable at the start of the week.
+190,The chef cancelled the results on Monday.,The results was cancelled by the chef at the start of the week.
+191,The teacher rejected the budget before noon.,The budget was rejected by the teacher ahead of midday.
+192,The driver rejected the budget yesterday.,The budget was rejected by the driver the day before.
+193,The customer updated the budget last week.,The client revised the financial plan in the previous week.
+194,The team explained the contract last week.,The group clarified the agreement in the previous week.
+195,The chef rejected the order yesterday.,The order was rejected by the chef the day before.
+196,The chef reviewed the design last week.,The design was reviewed by the chef in the previous week.
+197,The student approved the project this morning.,The project was approved by the student earlier today.
+198,The engineer completed the design on Monday.,The technician finished the layout at the start of the week.
+199,The customer explained the design this morning.,The design was explained by the customer earlier today.
+200,The team submitted the design yesterday.,The group handed in the layout the day before.
+201,The doctor submitted the schedule on Monday.,The physician handed in the timetable at the start of the week.
+202,The student submitted the project last week.,The pupil handed in the assignment in the previous week.
+203,The chef approved the design this morning.,The cook signed off on the layout earlier today.
+204,The company approved the results before noon.,The firm signed off on the findings ahead of midday.
+205,The customer approved the results on Monday.,The results was approved by the customer at the start of the week.
+206,The driver submitted the meeting yesterday.,The chauffeur handed in the session the day before.
+207,The student completed the order this morning.,The pupil finished the request earlier today.
+208,The engineer approved the new plan last week.,The technician signed off on the latest proposal in the previous week.
+209,The customer rejected the schedule yesterday.,The client turned down the timetable the day before.
+210,The customer approved the report on Monday.,The report was approved by the customer at the start of the week.
+211,The chef approved the contract this morning.,The cook signed off on the agreement earlier today.
+212,The company reviewed the project this morning.,The firm went over the assignment earlier today.
+213,The student updated the order last week.,The order was updated by the student in the previous week.
+214,The engineer announced the meeting this morning.,The technician made public the session earlier today.
+215,The customer submitted the meeting on Monday.,The client handed in the session at the start of the week.
+216,The company reviewed the schedule this morning.,The schedule was reviewed by the company earlier today.
+217,The manager rejected the contract this morning.,The contract was rejected by the manager earlier today.
+218,The customer prepared the results this morning.,The results was prepared by the customer earlier today.
+219,The student explained the schedule before noon.,The pupil clarified the timetable ahead of midday.
+220,The teacher updated the results yesterday.,The instructor revised the findings the day before.
+221,The team rejected the report before noon.,The group turned down the document ahead of midday.
+222,The customer completed the contract before noon.,The contract was completed by the customer ahead of midday.
+223,The chef explained the project this morning.,The cook clarified the assignment earlier today.
+224,The student rejected the budget on Monday.,The pupil turned down the financial plan at the start of the week.
+225,The company updated the budget this morning.,The firm revised the financial plan earlier today.
+226,The team cancelled the schedule this morning.,The group called off the timetable earlier today.
+227,The doctor prepared the report this morning.,The physician put together the document earlier today.
+228,The customer cancelled the design on Monday.,The client called off the layout at the start of the week.
+229,The customer prepared the contract yesterday.,The client put together the agreement the day before.
+230,The student rejected the order this morning.,The order was rejected by the student earlier today.
+231,The engineer explained the schedule before noon.,The technician clarified the timetable ahead of midday.
+232,The engineer updated the project last week.,The project was updated by the engineer in the previous week.
+233,The chef rejected the schedule yesterday.,The cook turned down the timetable the day before.
+234,The engineer explained the order yesterday.,The order was explained by the engineer the day before.
+235,The manager explained the project last week.,The boss clarified the assignment in the previous week.
+236,The teacher updated the results this morning.,The results was updated by the teacher earlier today.
+237,The manager rejected the report last week.,The boss turned down the document in the previous week.
+238,The doctor cancelled the budget this morning.,The physician called off the financial plan earlier today.
+239,The customer announced the report before noon.,The client made public the document ahead of midday.
+240,The company announced the order yesterday.,The firm made public the request the day before.
+241,The manager completed the project before noon.,The boss finished the assignment ahead of midday.
+242,The manager prepared the report on Monday.,The boss put together the document at the start of the week.
+243,The team reviewed the new plan before noon.,The group went over the latest proposal ahead of midday.
+244,The chef submitted the schedule before noon.,The cook handed in the timetable ahead of midday.
+245,The engineer prepared the project this morning.,The technician put together the assignment earlier today.
+246,The company rejected the meeting before noon.,The meeting was rejected by the company ahead of midday.
+247,The engineer completed the schedule last week.,The schedule was completed by the engineer in the previous week.
+248,The chef submitted the results before noon.,The cook handed in the findings ahead of midday.
+249,The student approved the budget before noon.,The pupil signed off on the financial plan ahead of midday.
+250,The team reviewed the schedule on Monday.,The group went over the timetable at the start of the week.
+251,The chef updated the new plan yesterday.,The cook revised the latest proposal the day before.
+252,The customer completed the new plan on Monday.,The client finished the latest proposal at the start of the week.
+253,The manager prepared the contract yesterday.,The boss put together the agreement the day before.
+254,The engineer submitted the order this morning.,The technician handed in the request earlier today.
+255,The team updated the schedule on Monday.,The group revised the timetable at the start of the week.
+256,The student rejected the project before noon.,The project was rejected by the student ahead of midday.
+257,The manager announced the order this morning.,The boss made public the request earlier today.
+258,The driver approved the order this morning.,The order was approved by the driver earlier today.
+259,The company approved the meeting yesterday.,The firm signed off on the session the day before.
+260,The customer cancelled the project yesterday.,The client called off the assignment the day before.
+261,The driver announced the meeting last week.,The chauffeur made public the session in the previous week.
+262,The team updated the design before noon.,The design was updated by the team ahead of midday.
+263,The driver approved the new plan yesterday.,The new plan was approved by the driver the day before.
+264,The customer explained the contract before noon.,The client clarified the agreement ahead of midday.
+265,The driver reviewed the schedule before noon.,The chauffeur went over the timetable ahead of midday.
+266,The teacher prepared the meeting on Monday.,The meeting was prepared by the teacher at the start of the week.
+267,The company submitted the meeting this morning.,The firm handed in the session earlier today.
+268,The company submitted the budget before noon.,The firm handed in the financial plan ahead of midday.
+269,The student explained the schedule on Monday.,The schedule was explained by the student at the start of the week.
+270,The chef cancelled the order this morning.,The order was cancelled by the chef earlier today.
+271,The engineer completed the meeting last week.,The meeting was completed by the engineer in the previous week.
+272,The driver announced the meeting before noon.,The chauffeur made public the session ahead of midday.
+273,The manager prepared the budget this morning.,The boss put together the financial plan earlier today.
+274,The doctor completed the meeting before noon.,The physician finished the session ahead of midday.
+275,The driver explained the design on Monday.,The chauffeur clarified the layout at the start of the week.
+276,The teacher prepared the results last week.,The instructor put together the findings in the previous week.
+277,The manager cancelled the design yesterday.,The boss called off the layout the day before.
+278,The teacher explained the design this morning.,The instructor clarified the layout earlier today.
+279,The engineer explained the project this morning.,The technician clarified the assignment earlier today.
+280,The company rejected the project on Monday.,The project was rejected by the company at the start of the week.
+281,The doctor announced the meeting this morning.,The physician made public the session earlier today.
+282,The teacher explained the report before noon.,The instructor clarified the document ahead of midday.
+283,The student prepared the order on Monday.,The pupil put together the request at the start of the week.
+284,The chef announced the schedule on Monday.,The cook made public the timetable at the start of the week.
+285,The student explained the report yesterday.,The pupil clarified the document the day before.
+286,The manager approved the report this morning.,The boss signed off on the document earlier today.
+287,The teacher rejected the report before noon.,The instructor turned down the document ahead of midday.
+288,The company reviewed the results yesterday.,The firm went over the findings the day before.
+289,The customer rejected the budget yesterday.,The client turned down the financial plan the day before.
+290,The engineer updated the contract this morning.,The technician revised the agreement earlier today.
+291,The customer prepared the contract last week.,The contract was prepared by the customer in the previous week.
+292,The driver updated the design last week.,The design was updated by the driver in the previous week.
+293,The doctor announced the schedule yesterday.,The physician made public the timetable the day before.
+294,The company approved the new plan this morning.,The new plan was approved by the company earlier today.
+295,The student approved the budget before noon.,The budget was approved by the student ahead of midday.
+296,The engineer prepared the order before noon.,The technician put together the request ahead of midday.
+297,The driver explained the order last week.,The order was explained by the driver in the previous week.
+298,The teacher reviewed the project this morning.,The instructor went over the assignment earlier today.
+299,The team explained the order before noon.,The group clarified the request ahead of midday.
+300,The team completed the report before noon.,The report was completed by the team ahead of midday.
+301,The team cancelled the results on Monday.,The results was cancelled by the team at the start of the week.
+302,The company completed the budget before noon.,The firm finished the financial plan ahead of midday.
+303,The engineer cancelled the order this morning.,The technician called off the request earlier today.
+304,The chef reviewed the report on Monday.,The cook went over the document at the start of the week.
+305,The chef reviewed the meeting this morning.,The cook went over the session earlier today.
+306,The customer updated the order this morning.,The client revised the request earlier today.
+307,The engineer rejected the design yesterday.,The technician turned down the layout the day before.
+308,The chef rejected the meeting on Monday.,The cook turned down the session at the start of the week.
+309,The student updated the report yesterday.,The pupil revised the document the day before.
+310,The teacher approved the design before noon.,The instructor signed off on the layout ahead of midday.
+311,The manager reviewed the report on Monday.,The boss went over the document at the start of the week.
+312,The manager updated the meeting yesterday.,The meeting was updated by the manager the day before.
+313,The company approved the project on Monday.,The project was approved by the company at the start of the week.
+314,The customer approved the new plan this morning.,The client signed off on the latest proposal earlier today.
+315,The chef cancelled the budget last week.,The cook called off the financial plan in the previous week.
+316,The driver explained the results on Monday.,The results was explained by the driver at the start of the week.
+317,The chef prepared the report before noon.,The cook put together the document ahead of midday.
+318,The manager completed the budget on Monday.,The boss finished the financial plan at the start of the week.
+319,The team explained the schedule on Monday.,The group clarified the timetable at the start of the week.
+320,The chef explained the project last week.,The cook clarified the assignment in the previous week.
+321,The doctor cancelled the results this morning.,The results was cancelled by the doctor earlier today.
+322,The company submitted the results on Monday.,The firm handed in the findings at the start of the week.
+323,The driver completed the order yesterday.,The order was completed by the driver the day before.
+324,The chef prepared the budget on Monday.,The cook put together the financial plan at the start of the week.
+325,The student cancelled the new plan yesterday.,The pupil called off the latest proposal the day before.
+326,The doctor explained the project on Monday.,The project was explained by the doctor at the start of the week.
+327,The customer rejected the results before noon.,The results was rejected by the customer ahead of midday.
+328,The engineer completed the order on Monday.,The order was completed by the engineer at the start of the week.
+329,The company submitted the new plan this morning.,The firm handed in the latest proposal earlier today.
+330,The team updated the schedule before noon.,The group revised the timetable ahead of midday.
+331,The customer cancelled the design yesterday.,The client called off the layout the day before.
+332,The team approved the design last week.,The group signed off on the layout in the previous week.
+333,The teacher updated the report this morning.,The instructor revised the document earlier today.
+334,The doctor cancelled the report before noon.,The physician called off the document ahead of midday.
+335,The chef reviewed the results last week.,The results was reviewed by the chef in the previous week.
+336,The manager approved the results last week.,The boss signed off on the findings in the previous week.
+337,The chef announced the project yesterday.,The cook made public the assignment the day before.
+338,The customer rejected the budget last week.,The client turned down the financial plan in the previous week.
+339,The driver explained the results on Monday.,The chauffeur clarified the findings at the start of the week.
+340,The engineer updated the design on Monday.,The design was updated by the engineer at the start of the week.
+341,The student prepared the schedule this morning.,The schedule was prepared by the student earlier today.
+342,The customer cancelled the meeting yesterday.,The client called off the session the day before.
+343,The company updated the design on Monday.,The firm revised the layout at the start of the week.
+344,The doctor reviewed the design yesterday.,The physician went over the layout the day before.
+345,The company submitted the results before noon.,The results was submitted by the company ahead of midday.
+346,The manager submitted the contract this morning.,The boss handed in the agreement earlier today.
+347,The teacher explained the project last week.,The project was explained by the teacher in the previous week.
+348,The engineer cancelled the meeting yesterday.,The technician called off the session the day before.
+349,The customer approved the project this morning.,The project was approved by the customer earlier today.
+350,The doctor rejected the new plan on Monday.,The new plan was rejected by the doctor at the start of the week.
+351,The customer prepared the results yesterday.,The client put together the findings the day before.
+352,The doctor prepared the project last week.,The project was prepared by the doctor in the previous week.
+353,The chef announced the schedule this morning.,The schedule was announced by the chef earlier today.
+354,The company approved the order this morning.,The firm signed off on the request earlier today.
+355,The company explained the design last week.,The design was explained by the company in the previous week.
+356,The customer prepared the budget on Monday.,The client put together the financial plan at the start of the week.
+357,The engineer announced the order yesterday.,The technician made public the request the day before.
+358,The doctor prepared the meeting on Monday.,The meeting was prepared by the doctor at the start of the week.
+359,The chef cancelled the report this morning.,The cook called off the document earlier today.
+360,The driver rejected the project last week.,The chauffeur turned down the assignment in the previous week.
+361,The customer announced the project this morning.,The project was announced by the customer earlier today.
+362,The team rejected the budget before noon.,The group turned down the financial plan ahead of midday.
+363,The teacher submitted the schedule last week.,The instructor handed in the timetable in the previous week.
+364,The engineer explained the design on Monday.,The design was explained by the engineer at the start of the week.
+365,The driver reviewed the new plan last week.,The new plan was reviewed by the driver in the previous week.
+366,The driver cancelled the contract yesterday.,The chauffeur called off the agreement the day before.
+367,The manager updated the project before noon.,The project was updated by the manager ahead of midday.
+368,The company prepared the report yesterday.,The firm put together the document the day before.
+369,The chef completed the schedule before noon.,The cook finished the timetable ahead of midday.
+370,The student submitted the budget last week.,The pupil handed in the financial plan in the previous week.
+371,The engineer prepared the design yesterday.,The technician put together the layout the day before.
+372,The teacher prepared the meeting before noon.,The meeting was prepared by the teacher ahead of midday.
+373,The chef rejected the budget last week.,The cook turned down the financial plan in the previous week.
+374,The manager rejected the design yesterday.,The boss turned down the layout the day before.
+375,The company announced the meeting yesterday.,The meeting was announced by the company the day before.
+376,The driver completed the budget before noon.,The chauffeur finished the financial plan ahead of midday.
+377,The manager announced the results yesterday.,The boss made public the findings the day before.
+378,The chef completed the design before noon.,The cook finished the layout ahead of midday.
+379,The engineer prepared the design on Monday.,The design was prepared by the engineer at the start of the week.
+380,The company explained the order on Monday.,The firm clarified the request at the start of the week.
+381,The engineer submitted the new plan yesterday.,The new plan was submitted by the engineer the day before.
+382,The company updated the schedule on Monday.,The firm revised the timetable at the start of the week.
+383,The manager reviewed the results on Monday.,The boss went over the findings at the start of the week.
+384,The manager cancelled the budget this morning.,The budget was cancelled by the manager earlier today.
+385,The team announced the meeting this morning.,The group made public the session earlier today.
+386,The driver submitted the design on Monday.,The chauffeur handed in the layout at the start of the week.
+387,The driver submitted the contract yesterday.,The contract was submitted by the driver the day before.
+388,The team cancelled the project yesterday.,The group called off the assignment the day before.
+389,The customer updated the contract this morning.,The client revised the agreement earlier today.
+390,The team completed the order on Monday.,The group finished the request at the start of the week.
+391,The manager completed the order yesterday.,The order was completed by the manager the day before.
+392,The teacher reviewed the order before noon.,The instructor went over the request ahead of midday.
+393,The student updated the schedule last week.,The pupil revised the timetable in the previous week.
+394,The student approved the schedule last week.,The pupil signed off on the timetable in the previous week.
+395,The chef reviewed the contract this morning.,The contract was reviewed by the chef earlier today.
+396,The chef cancelled the new plan before noon.,The cook called off the latest proposal ahead of midday.
+397,The company completed the meeting before noon.,The meeting was completed by the company ahead of midday.
+398,The driver completed the project this morning.,The chauffeur finished the assignment earlier today.
+399,The customer reviewed the new plan yesterday.,The new plan was reviewed by the customer the day before.
+400,The driver completed the budget last week.,The chauffeur finished the financial plan in the previous week.
+401,The manager explained the budget before noon.,The boss clarified the financial plan ahead of midday.
+402,The doctor approved the schedule before noon.,The physician signed off on the timetable ahead of midday.
+403,The customer rejected the results yesterday.,The results was rejected by the customer the day before.
+404,The engineer submitted the contract on Monday.,The technician handed in the agreement at the start of the week.
+405,The company explained the project this morning.,The firm clarified the assignment earlier today.
+406,The company cancelled the design last week.,The design was cancelled by the company in the previous week.
+407,The team approved the report yesterday.,The report was approved by the team the day before.
+408,The team updated the new plan last week.,The group revised the latest proposal in the previous week.
+409,The customer prepared the schedule before noon.,The client put together the timetable ahead of midday.
+410,The team approved the report on Monday.,The report was approved by the team at the start of the week.
+411,The doctor explained the design yesterday.,The physician clarified the layout the day before.
+412,The student rejected the design before noon.,The pupil turned down the layout ahead of midday.
+413,The engineer prepared the new plan on Monday.,The technician put together the latest proposal at the start of the week.
+414,The student completed the project yesterday.,The pupil finished the assignment the day before.
+415,The student rejected the results this morning.,The results was rejected by the student earlier today.
+416,The customer rejected the results before noon.,The client turned down the findings ahead of midday.
+417,The customer announced the new plan on Monday.,The new plan was announced by the customer at the start of the week.
+418,The teacher explained the meeting before noon.,The instructor clarified the session ahead of midday.
+419,The engineer prepared the results before noon.,The results was prepared by the engineer ahead of midday.
+420,The company updated the results yesterday.,The results was updated by the company the day before.
+421,The manager explained the schedule on Monday.,The schedule was explained by the manager at the start of the week.
+422,The manager prepared the results on Monday.,The results was prepared by the manager at the start of the week.
+423,The manager updated the design this morning.,The boss revised the layout earlier today.
+424,The manager completed the new plan yesterday.,The boss finished the latest proposal the day before.
+425,The chef approved the results on Monday.,The cook signed off on the findings at the start of the week.
+426,The student submitted the schedule this morning.,The pupil handed in the timetable earlier today.
+427,The doctor completed the order on Monday.,The physician finished the request at the start of the week.
+428,The manager rejected the order yesterday.,The order was rejected by the manager the day before.
+429,The manager reviewed the new plan before noon.,The boss went over the latest proposal ahead of midday.
+430,The engineer cancelled the order on Monday.,The technician called off the request at the start of the week.
+431,The team rejected the order this morning.,The group turned down the request earlier today.
+432,The manager completed the design on Monday.,The boss finished the layout at the start of the week.
+433,The teacher completed the design on Monday.,The instructor finished the layout at the start of the week.
+434,The chef announced the report on Monday.,The cook made public the document at the start of the week.
+435,The student rejected the design before noon.,The design was rejected by the student ahead of midday.
+436,The teacher approved the contract last week.,The instructor signed off on the agreement in the previous week.
+437,The driver updated the order on Monday.,The chauffeur revised the request at the start of the week.
+438,The engineer completed the results yesterday.,The results was completed by the engineer the day before.
+439,The driver rejected the new plan yesterday.,The chauffeur turned down the latest proposal the day before.
+440,The student prepared the project on Monday.,The project was prepared by the student at the start of the week.
+441,The manager cancelled the results on Monday.,The boss called off the findings at the start of the week.
+442,The company approved the results yesterday.,The firm signed off on the findings the day before.
+443,The engineer announced the order last week.,The order was announced by the engineer in the previous week.
+444,The teacher cancelled the schedule on Monday.,The instructor called off the timetable at the start of the week.
+445,The company explained the design before noon.,The design was explained by the company ahead of midday.
+446,The manager prepared the contract this morning.,The boss put together the agreement earlier today.
+447,The manager updated the schedule before noon.,The boss revised the timetable ahead of midday.
+448,The teacher prepared the results on Monday.,The instructor put together the findings at the start of the week.
+449,The customer reviewed the project last week.,The client went over the assignment in the previous week.
+450,The company rejected the new plan this morning.,The new plan was rejected by the company earlier today.
+451,The driver cancelled the meeting yesterday.,The chauffeur called off the session the day before.
+452,The doctor cancelled the results yesterday.,The results was cancelled by the doctor the day before.
+453,The customer updated the design before noon.,The client revised the layout ahead of midday.
+454,The teacher completed the schedule before noon.,The schedule was completed by the teacher ahead of midday.
+455,The driver submitted the project last week.,The chauffeur handed in the assignment in the previous week.
+456,The chef updated the results last week.,The cook revised the findings in the previous week.
+457,The doctor submitted the meeting last week.,The physician handed in the session in the previous week.
+458,The student updated the new plan this morning.,The pupil revised the latest proposal earlier today.
+459,The engineer reviewed the contract on Monday.,The technician went over the agreement at the start of the week.
+460,The teacher cancelled the budget last week.,The instructor called off the financial plan in the previous week.
+461,The customer cancelled the meeting last week.,The meeting was cancelled by the customer in the previous week.
+462,The teacher explained the contract this morning.,The instructor clarified the agreement earlier today.
+463,The customer prepared the schedule on Monday.,The client put together the timetable at the start of the week.
+464,The customer reviewed the schedule yesterday.,The client went over the timetable the day before.
+465,The chef approved the results last week.,The cook signed off on the findings in the previous week.
+466,The team reviewed the project this morning.,The group went over the assignment earlier today.
+467,The team submitted the contract on Monday.,The group handed in the agreement at the start of the week.
+468,The chef explained the design on Monday.,The cook clarified the layout at the start of the week.
+469,The engineer reviewed the project last week.,The project was reviewed by the engineer in the previous week.
+470,The teacher reviewed the project before noon.,The instructor went over the assignment ahead of midday.
+471,The company reviewed the schedule last week.,The firm went over the timetable in the previous week.
+472,The doctor explained the order last week.,The physician clarified the request in the previous week.
+473,The student explained the project last week.,The pupil clarified the assignment in the previous week.
+474,The doctor announced the meeting yesterday.,The physician made public the session the day before.
+475,The team completed the order before noon.,The group finished the request ahead of midday.
+476,The student completed the results last week.,The pupil finished the findings in the previous week.
+477,The engineer prepared the new plan before noon.,The technician put together the latest proposal ahead of midday.
+478,The driver announced the new plan last week.,The chauffeur made public the latest proposal in the previous week.
+479,The manager submitted the report before noon.,The boss handed in the document ahead of midday.
+480,The teacher announced the meeting before noon.,The instructor made public the session ahead of midday.
+481,The student explained the order before noon.,The pupil clarified the request ahead of midday.
+482,The customer reviewed the schedule this morning.,The client went over the timetable earlier today.
+483,The team completed the meeting before noon.,The meeting was completed by the team ahead of midday.
+484,The driver explained the results before noon.,The chauffeur clarified the findings ahead of midday.
+485,The company announced the contract before noon.,The firm made public the agreement ahead of midday.
+486,The teacher cancelled the meeting before noon.,The meeting was cancelled by the teacher ahead of midday.
+487,The company approved the new plan before noon.,The firm signed off on the latest proposal ahead of midday.
+488,The student updated the schedule on Monday.,The pupil revised the timetable at the start of the week.
+489,The student prepared the report last week.,The pupil put together the document in the previous week.
+490,The chef submitted the contract before noon.,The contract was submitted by the chef ahead of midday.
+491,The teacher submitted the schedule before noon.,The instructor handed in the timetable ahead of midday.
+492,The company approved the report yesterday.,The report was approved by the company the day before.
+493,The customer updated the design on Monday.,The design was updated by the customer at the start of the week.
+494,The teacher submitted the new plan before noon.,The instructor handed in the latest proposal ahead of midday.
+495,The company completed the contract yesterday.,The contract was completed by the company the day before.
+496,The customer prepared the meeting before noon.,The client put together the session ahead of midday.
+497,The teacher announced the new plan yesterday.,The instructor made public the latest proposal the day before.
+498,The driver cancelled the project on Monday.,The project was cancelled by the driver at the start of the week.
+499,The manager rejected the order on Monday.,The boss turned down the request at the start of the week.
+500,The student announced the order last week.,The pupil made public the request in the previous week.
+501,The engineer updated the results this morning.,The results was updated by the engineer earlier today.
+502,The driver announced the schedule last week.,The chauffeur made public the timetable in the previous week.
+503,The chef explained the meeting on Monday.,The meeting was explained by the chef at the start of the week.
+504,The customer prepared the project last week.,The client put together the assignment in the previous week.
+505,The doctor explained the schedule last week.,The schedule was explained by the doctor in the previous week.
+506,The company explained the contract yesterday.,The firm clarified the agreement the day before.
+507,The doctor submitted the schedule yesterday.,The physician handed in the timetable the day before.
+508,The driver submitted the report on Monday.,The chauffeur handed in the document at the start of the week.
+509,The doctor rejected the order this morning.,The physician turned down the request earlier today.
+510,The student submitted the contract before noon.,The contract was submitted by the student ahead of midday.
+511,The driver cancelled the schedule before noon.,The chauffeur called off the timetable ahead of midday.
+512,The company cancelled the contract last week.,The firm called off the agreement in the previous week.
+513,The manager reviewed the design this morning.,The boss went over the layout earlier today.
+514,The company explained the order before noon.,The order was explained by the company ahead of midday.
+515,The manager submitted the design last week.,The boss handed in the layout in the previous week.
+516,The customer approved the new plan on Monday.,The client signed off on the latest proposal at the start of the week.
+517,The company submitted the order before noon.,The firm handed in the request ahead of midday.
+518,The customer explained the results yesterday.,The client clarified the findings the day before.
+519,The doctor reviewed the design on Monday.,The physician went over the layout at the start of the week.
+520,The doctor explained the meeting on Monday.,The physician clarified the session at the start of the week.
+521,The student completed the order before noon.,The order was completed by the student ahead of midday.
+522,The chef reviewed the meeting yesterday.,The meeting was reviewed by the chef the day before.
+523,The driver prepared the schedule this morning.,The schedule was prepared by the driver earlier today.
+524,The doctor submitted the contract on Monday.,The contract was submitted by the doctor at the start of the week.
+525,The teacher submitted the schedule on Monday.,The instructor handed in the timetable at the start of the week.
+526,The doctor submitted the order last week.,The physician handed in the request in the previous week.
+527,The teacher announced the budget on Monday.,The budget was announced by the teacher at the start of the week.
+528,The chef explained the schedule this morning.,The cook clarified the timetable earlier today.
+529,The engineer rejected the results on Monday.,The technician turned down the findings at the start of the week.
+530,The doctor announced the budget before noon.,The physician made public the financial plan ahead of midday.
+531,The chef completed the project this morning.,The cook finished the assignment earlier today.
+532,The engineer submitted the new plan before noon.,The new plan was submitted by the engineer ahead of midday.
+533,The driver announced the schedule before noon.,The chauffeur made public the timetable ahead of midday.
+534,The student rejected the design last week.,The pupil turned down the layout in the previous week.
+535,The customer explained the schedule yesterday.,The client clarified the timetable the day before.
+536,The student updated the order on Monday.,The order was updated by the student at the start of the week.
+537,The manager rejected the results before noon.,The boss turned down the findings ahead of midday.
+538,The doctor reviewed the design on Monday.,The design was reviewed by the doctor at the start of the week.
+539,The chef submitted the results last week.,The cook handed in the findings in the previous week.
+540,The chef reviewed the order yesterday.,The cook went over the request the day before.
+541,The driver announced the design before noon.,The chauffeur made public the layout ahead of midday.
+542,The driver approved the report this morning.,The chauffeur signed off on the document earlier today.
+543,The manager reviewed the results this morning.,The boss went over the findings earlier today.
+544,The student completed the order this morning.,The order was completed by the student earlier today.
+545,The engineer cancelled the new plan yesterday.,The technician called off the latest proposal the day before.
+546,The student updated the report before noon.,The pupil revised the document ahead of midday.
+547,The doctor updated the contract on Monday.,The physician revised the agreement at the start of the week.
+548,The customer announced the schedule yesterday.,The client made public the timetable the day before.
+549,The doctor explained the meeting last week.,The meeting was explained by the doctor in the previous week.
+550,The chef approved the new plan last week.,The cook signed off on the latest proposal in the previous week.
+551,The driver submitted the contract on Monday.,The chauffeur handed in the agreement at the start of the week.
+552,The company announced the results yesterday.,The firm made public the findings the day before.
+553,The company completed the results on Monday.,The results was completed by the company at the start of the week.
+554,The team explained the meeting on Monday.,The group clarified the session at the start of the week.
+555,The student prepared the design yesterday.,The pupil put together the layout the day before.
+556,The teacher approved the design yesterday.,The design was approved by the teacher the day before.
+557,The chef announced the order before noon.,The cook made public the request ahead of midday.
+558,The student submitted the design on Monday.,The pupil handed in the layout at the start of the week.
+559,The engineer prepared the budget on Monday.,The technician put together the financial plan at the start of the week.
+560,The engineer reviewed the budget this morning.,The technician went over the financial plan earlier today.
+561,The engineer announced the schedule last week.,The schedule was announced by the engineer in the previous week.
+562,The company submitted the budget last week.,The firm handed in the financial plan in the previous week.
+563,The team reviewed the schedule on Monday.,The schedule was reviewed by the team at the start of the week.
+564,The chef updated the budget on Monday.,The cook revised the financial plan at the start of the week.
+565,The team prepared the meeting this morning.,The group put together the session earlier today.
+566,The teacher updated the report last week.,The instructor revised the document in the previous week.
+567,The teacher approved the project before noon.,The instructor signed off on the assignment ahead of midday.
+568,The driver rejected the schedule last week.,The chauffeur turned down the timetable in the previous week.
+569,The manager updated the design on Monday.,The boss revised the layout at the start of the week.
+570,The teacher submitted the order last week.,The order was submitted by the teacher in the previous week.
+571,The company completed the schedule last week.,The firm finished the timetable in the previous week.
+572,The student explained the project before noon.,The pupil clarified the assignment ahead of midday.
+573,The manager reviewed the contract last week.,The contract was reviewed by the manager in the previous week.
+574,The engineer cancelled the contract this morning.,The technician called off the agreement earlier today.
+575,The manager reviewed the results this morning.,The results was reviewed by the manager earlier today.
+576,The driver cancelled the project yesterday.,The chauffeur called off the assignment the day before.
+577,The student cancelled the budget last week.,The pupil called off the financial plan in the previous week.
+578,The manager approved the project last week.,The boss signed off on the assignment in the previous week.
+579,The student rejected the order last week.,The order was rejected by the student in the previous week.
+580,The manager explained the design yesterday.,The boss clarified the layout the day before.
+581,The manager approved the schedule this morning.,The boss signed off on the timetable earlier today.
+582,The customer prepared the results this morning.,The client put together the findings earlier today.
+583,The driver announced the design yesterday.,The chauffeur made public the layout the day before.
+584,The student cancelled the new plan before noon.,The new plan was cancelled by the student ahead of midday.
+585,The doctor approved the schedule last week.,The physician signed off on the timetable in the previous week.
+586,The chef rejected the project last week.,The cook turned down the assignment in the previous week.
+587,The teacher explained the design last week.,The design was explained by the teacher in the previous week.
+588,The company rejected the design on Monday.,The firm turned down the layout at the start of the week.
+589,The company cancelled the schedule this morning.,The firm called off the timetable earlier today.
+590,The chef cancelled the order this morning.,The cook called off the request earlier today.
+591,The engineer prepared the contract on Monday.,The contract was prepared by the engineer at the start of the week.
+592,The teacher explained the project before noon.,The instructor clarified the assignment ahead of midday.
+593,The teacher submitted the new plan before noon.,The new plan was submitted by the teacher ahead of midday.
+594,The engineer prepared the contract this morning.,The technician put together the agreement earlier today.
+595,The engineer explained the budget on Monday.,The technician clarified the financial plan at the start of the week.
+596,The company cancelled the results before noon.,The results was cancelled by the company ahead of midday.
+597,The manager submitted the project before noon.,The project was submitted by the manager ahead of midday.
+598,The engineer completed the meeting before noon.,The meeting was completed by the engineer ahead of midday.
+599,The student prepared the schedule before noon.,The schedule was prepared by the student ahead of midday.
+600,The customer updated the schedule this morning.,The client revised the timetable earlier today.
+601,The engineer completed the report before noon.,The technician finished the document ahead of midday.
+602,The doctor updated the design last week.,The physician revised the layout in the previous week.
+603,The student rejected the schedule last week.,The pupil turned down the timetable in the previous week.
+604,The team submitted the contract this morning.,The group handed in the agreement earlier today.
+605,The company rejected the new plan on Monday.,The firm turned down the latest proposal at the start of the week.
+606,The customer approved the project last week.,The project was approved by the customer in the previous week.
+607,The company announced the meeting this morning.,The firm made public the session earlier today.
+608,The engineer reviewed the report last week.,The technician went over the document in the previous week.
+609,The engineer rejected the new plan yesterday.,The new plan was rejected by the engineer the day before.
+610,The doctor submitted the report this morning.,The report was submitted by the doctor earlier today.
+611,The engineer reviewed the meeting this morning.,The meeting was reviewed by the engineer earlier today.
+612,The manager completed the budget yesterday.,The budget was completed by the manager the day before.
+613,The doctor prepared the budget this morning.,The budget was prepared by the doctor earlier today.
+614,The team rejected the order before noon.,The group turned down the request ahead of midday.
+615,The company explained the new plan on Monday.,The new plan was explained by the company at the start of the week.
+616,The driver explained the results before noon.,The results was explained by the driver ahead of midday.
+617,The driver prepared the results before noon.,The results was prepared by the driver ahead of midday.
+618,The customer submitted the order last week.,The order was submitted by the customer in the previous week.
+619,The student cancelled the project this morning.,The pupil called off the assignment earlier today.
+620,The driver rejected the contract this morning.,The chauffeur turned down the agreement earlier today.
+621,The teacher updated the results on Monday.,The instructor revised the findings at the start of the week.
+622,The teacher completed the new plan on Monday.,The instructor finished the latest proposal at the start of the week.
+623,The doctor approved the project on Monday.,The physician signed off on the assignment at the start of the week.
+624,The engineer cancelled the schedule before noon.,The schedule was cancelled by the engineer ahead of midday.
+625,The manager rejected the schedule yesterday.,The schedule was rejected by the manager the day before.
+626,The engineer rejected the order last week.,The technician turned down the request in the previous week.
+627,The driver reviewed the design this morning.,The design was reviewed by the driver earlier today.
+628,The teacher announced the order on Monday.,The instructor made public the request at the start of the week.
+629,The engineer approved the project last week.,The project was approved by the engineer in the previous week.
+630,The chef updated the budget last week.,The budget was updated by the chef in the previous week.
+631,The customer prepared the report before noon.,The client put together the document ahead of midday.
+632,The chef updated the contract yesterday.,The contract was updated by the chef the day before.
+633,The doctor rejected the project this morning.,The physician turned down the assignment earlier today.
+634,The chef completed the report yesterday.,The cook finished the document the day before.
+635,The team completed the schedule on Monday.,The group finished the timetable at the start of the week.
+636,The student reviewed the results before noon.,The pupil went over the findings ahead of midday.
+637,The driver explained the results last week.,The chauffeur clarified the findings in the previous week.
+638,The driver submitted the new plan yesterday.,The chauffeur handed in the latest proposal the day before.
+639,The teacher submitted the design on Monday.,The design was submitted by the teacher at the start of the week.
+640,The teacher reviewed the project before noon.,The project was reviewed by the teacher ahead of midday.
+641,The doctor completed the contract last week.,The contract was completed by the doctor in the previous week.
+642,The chef cancelled the results last week.,The cook called off the findings in the previous week.
+643,The manager announced the design on Monday.,The design was announced by the manager at the start of the week.
+644,The manager rejected the project before noon.,The boss turned down the assignment ahead of midday.
+645,The engineer explained the results on Monday.,The technician clarified the findings at the start of the week.
+646,The student prepared the budget yesterday.,The pupil put together the financial plan the day before.
+647,The team completed the schedule yesterday.,The schedule was completed by the team the day before.
+648,The driver cancelled the report this morning.,The chauffeur called off the document earlier today.
+649,The student reviewed the contract this morning.,The pupil went over the agreement earlier today.
+650,The manager approved the budget this morning.,The boss signed off on the financial plan earlier today.
+651,The student updated the contract yesterday.,The pupil revised the agreement the day before.
+652,The doctor prepared the budget on Monday.,The physician put together the financial plan at the start of the week.
+653,The company submitted the new plan on Monday.,The new plan was submitted by the company at the start of the week.
+654,The team cancelled the schedule yesterday.,The group called off the timetable the day before.
+655,The driver updated the schedule last week.,The schedule was updated by the driver in the previous week.
+656,The student cancelled the budget before noon.,The pupil called off the financial plan ahead of midday.
+657,The engineer submitted the project on Monday.,The project was submitted by the engineer at the start of the week.
+658,The company completed the budget this morning.,The firm finished the financial plan earlier today.
+659,The doctor prepared the order before noon.,The order was prepared by the doctor ahead of midday.
+660,The manager cancelled the results before noon.,The results was cancelled by the manager ahead of midday.
+661,The manager updated the schedule this morning.,The boss revised the timetable earlier today.
+662,The company prepared the meeting this morning.,The firm put together the session earlier today.
+663,The teacher prepared the results yesterday.,The results was prepared by the teacher the day before.
+664,The student submitted the new plan last week.,The pupil handed in the latest proposal in the previous week.
+665,The student completed the schedule this morning.,The pupil finished the timetable earlier today.
+666,The chef rejected the contract yesterday.,The cook turned down the agreement the day before.
+667,The doctor rejected the order last week.,The order was rejected by the doctor in the previous week.
+668,The chef explained the contract last week.,The contract was explained by the chef in the previous week.
+669,The company rejected the project before noon.,The firm turned down the assignment ahead of midday.
+670,The team updated the order yesterday.,The order was updated by the team the day before.
+671,The company explained the project before noon.,The firm clarified the assignment ahead of midday.
+672,The driver prepared the results this morning.,The chauffeur put together the findings earlier today.
+673,The customer rejected the report this morning.,The report was rejected by the customer earlier today.
+674,The student cancelled the schedule before noon.,The pupil called off the timetable ahead of midday.
+675,The customer cancelled the budget last week.,The budget was cancelled by the customer in the previous week.
+676,The chef cancelled the budget this morning.,The cook called off the financial plan earlier today.
+677,The team announced the order on Monday.,The group made public the request at the start of the week.
+678,The student updated the design yesterday.,The design was updated by the student the day before.
+679,The doctor approved the schedule on Monday.,The physician signed off on the timetable at the start of the week.
+680,The company rejected the new plan on Monday.,The new plan was rejected by the company at the start of the week.
+681,The manager rejected the new plan this morning.,The boss turned down the latest proposal earlier today.
+682,The teacher updated the new plan this morning.,The instructor revised the latest proposal earlier today.
+683,The teacher reviewed the new plan before noon.,The instructor went over the latest proposal ahead of midday.
+684,The doctor completed the new plan last week.,The physician finished the latest proposal in the previous week.
+685,The driver explained the meeting yesterday.,The meeting was explained by the driver the day before.
+686,The customer prepared the design on Monday.,The client put together the layout at the start of the week.
+687,The teacher announced the budget before noon.,The instructor made public the financial plan ahead of midday.
+688,The teacher rejected the new plan last week.,The new plan was rejected by the teacher in the previous week.
+689,The doctor approved the contract yesterday.,The physician signed off on the agreement the day before.
+690,The team prepared the budget last week.,The group put together the financial plan in the previous week.
+691,The doctor announced the new plan on Monday.,The physician made public the latest proposal at the start of the week.
+692,The chef rejected the results last week.,The cook turned down the findings in the previous week.
+693,The team approved the meeting yesterday.,The group signed off on the session the day before.
+694,The team cancelled the budget yesterday.,The group called off the financial plan the day before.
+695,The manager prepared the results before noon.,The boss put together the findings ahead of midday.
+696,The chef completed the schedule this morning.,The schedule was completed by the chef earlier today.
+697,The driver approved the results last week.,The results was approved by the driver in the previous week.
+698,The customer updated the report this morning.,The report was updated by the customer earlier today.
+699,The team rejected the project before noon.,The group turned down the assignment ahead of midday.
+700,The teacher rejected the report this morning.,The instructor turned down the document earlier today.
+701,The student announced the budget this morning.,The pupil made public the financial plan earlier today.
+702,The company reviewed the results before noon.,The results was reviewed by the company ahead of midday.
+703,The customer explained the project this morning.,The client clarified the assignment earlier today.
+704,The company submitted the schedule before noon.,The schedule was submitted by the company ahead of midday.
+705,The driver cancelled the design before noon.,The design was cancelled by the driver ahead of midday.
+706,The driver submitted the project this morning.,The project was submitted by the driver earlier today.
+707,The student updated the results before noon.,The results was updated by the student ahead of midday.
+708,The driver rejected the report this morning.,The chauffeur turned down the document earlier today.
+709,The engineer rejected the order this morning.,The technician turned down the request earlier today.
+710,The customer updated the new plan before noon.,The new plan was updated by the customer ahead of midday.
+711,The manager rejected the design this morning.,The boss turned down the layout earlier today.
+712,The student announced the new plan yesterday.,The new plan was announced by the student the day before.
+713,The customer reviewed the meeting before noon.,The client went over the session ahead of midday.
+714,The customer reviewed the results last week.,The results was reviewed by the customer in the previous week.
+715,The chef rejected the contract on Monday.,The contract was rejected by the chef at the start of the week.
+716,The doctor explained the order yesterday.,The physician clarified the request the day before.
+717,The company submitted the contract before noon.,The firm handed in the agreement ahead of midday.
+718,The team announced the contract yesterday.,The group made public the agreement the day before.
+719,The company rejected the meeting before noon.,The firm turned down the session ahead of midday.
+720,The team cancelled the project before noon.,The group called off the assignment ahead of midday.
+721,The driver approved the design before noon.,The design was approved by the driver ahead of midday.
+722,The chef explained the new plan on Monday.,The cook clarified the latest proposal at the start of the week.
+723,The doctor reviewed the results before noon.,The physician went over the findings ahead of midday.
+724,The driver reviewed the results this morning.,The chauffeur went over the findings earlier today.
+725,The team rejected the order this morning.,The order was rejected by the team earlier today.
+726,The engineer reviewed the project before noon.,The project was reviewed by the engineer ahead of midday.
+727,The teacher prepared the report last week.,The instructor put together the document in the previous week.
+728,The doctor cancelled the budget yesterday.,The physician called off the financial plan the day before.
+729,The chef updated the design yesterday.,The design was updated by the chef the day before.
+730,The customer explained the results before noon.,The client clarified the findings ahead of midday.
+731,The team approved the new plan on Monday.,The group signed off on the latest proposal at the start of the week.
+732,The company updated the report on Monday.,The firm revised the document at the start of the week.
+733,The manager explained the project this morning.,The boss clarified the assignment earlier today.
+734,The team rejected the schedule last week.,The group turned down the timetable in the previous week.
+735,The chef prepared the schedule this morning.,The cook put together the timetable earlier today.
+736,The chef explained the report before noon.,The cook clarified the document ahead of midday.
+737,The student cancelled the meeting on Monday.,The pupil called off the session at the start of the week.
+738,The driver updated the new plan yesterday.,The chauffeur revised the latest proposal the day before.
+739,The doctor submitted the report last week.,The report was submitted by the doctor in the previous week.
+740,The engineer reviewed the contract yesterday.,The technician went over the agreement the day before.
+741,The doctor updated the contract yesterday.,The contract was updated by the doctor the day before.
+742,The customer announced the budget yesterday.,The client made public the financial plan the day before.
+743,The student explained the budget before noon.,The pupil clarified the financial plan ahead of midday.
+744,The chef approved the design on Monday.,The cook signed off on the layout at the start of the week.
+745,The teacher announced the design before noon.,The design was announced by the teacher ahead of midday.
+746,The chef updated the order this morning.,The cook revised the request earlier today.
+747,The company completed the report yesterday.,The firm finished the document the day before.
+748,The driver reviewed the project before noon.,The project was reviewed by the driver ahead of midday.
+749,The driver cancelled the results before noon.,The chauffeur called off the findings ahead of midday.
+750,The team submitted the contract before noon.,The group handed in the agreement ahead of midday.
+751,The manager announced the results this morning.,The boss made public the findings earlier today.
+752,The manager approved the contract this morning.,The boss signed off on the agreement earlier today.
+753,The student updated the project this morning.,The pupil revised the assignment earlier today.
+754,The student explained the budget on Monday.,The pupil clarified the financial plan at the start of the week.
+755,The team reviewed the new plan last week.,The group went over the latest proposal in the previous week.
+756,The teacher rejected the order yesterday.,The instructor turned down the request the day before.
+757,The team cancelled the new plan this morning.,The group called off the latest proposal earlier today.
+758,The team announced the budget this morning.,The group made public the financial plan earlier today.
+759,The driver explained the results last week.,The results was explained by the driver in the previous week.
+760,The teacher cancelled the meeting yesterday.,The instructor called off the session the day before.
+761,The chef explained the project yesterday.,The cook clarified the assignment the day before.
+762,The student updated the contract this morning.,The pupil revised the agreement earlier today.
+763,The engineer prepared the new plan last week.,The new plan was prepared by the engineer in the previous week.
+764,The engineer submitted the design before noon.,The technician handed in the layout ahead of midday.
+765,The engineer updated the report before noon.,The technician revised the document ahead of midday.
+766,The doctor submitted the contract last week.,The physician handed in the agreement in the previous week.
+767,The company explained the new plan yesterday.,The firm clarified the latest proposal the day before.
+768,The engineer cancelled the results on Monday.,The technician called off the findings at the start of the week.
+769,The driver explained the new plan before noon.,The chauffeur clarified the latest proposal ahead of midday.
+770,The team prepared the results this morning.,The group put together the findings earlier today.
+771,The chef reviewed the budget before noon.,The cook went over the financial plan ahead of midday.
+772,The company submitted the design last week.,The firm handed in the layout in the previous week.
+773,The company reviewed the design this morning.,The firm went over the layout earlier today.
+774,The student announced the schedule before noon.,The schedule was announced by the student ahead of midday.
+775,The manager prepared the new plan on Monday.,The new plan was prepared by the manager at the start of the week.
+776,The driver prepared the new plan before noon.,The chauffeur put together the latest proposal ahead of midday.
+777,The manager prepared the budget on Monday.,The boss put together the financial plan at the start of the week.
+778,The teacher submitted the report before noon.,The instructor handed in the document ahead of midday.
+779,The engineer approved the report before noon.,The technician signed off on the document ahead of midday.
+780,The student prepared the order yesterday.,The order was prepared by the student the day before.
+781,The company cancelled the meeting last week.,The meeting was cancelled by the company in the previous week.
+782,The company explained the order this morning.,The firm clarified the request earlier today.
+783,The driver reviewed the project last week.,The project was reviewed by the driver in the previous week.
+784,The team updated the new plan before noon.,The group revised the latest proposal ahead of midday.
+785,The manager prepared the report last week.,The boss put together the document in the previous week.
+786,The customer rejected the schedule before noon.,The client turned down the timetable ahead of midday.
+787,The company announced the new plan on Monday.,The firm made public the latest proposal at the start of the week.
+788,The teacher completed the results this morning.,The instructor finished the findings earlier today.
+789,The chef cancelled the schedule before noon.,The cook called off the timetable ahead of midday.
+790,The teacher announced the schedule last week.,The instructor made public the timetable in the previous week.
+791,The student approved the report last week.,The report was approved by the student in the previous week.
+792,The teacher submitted the budget yesterday.,The instructor handed in the financial plan the day before.
+793,The team cancelled the contract last week.,The group called off the agreement in the previous week.
+794,The chef approved the budget last week.,The cook signed off on the financial plan in the previous week.
+795,The customer reviewed the design last week.,The design was reviewed by the customer in the previous week.
+796,The chef prepared the project on Monday.,The cook put together the assignment at the start of the week.
+797,The team updated the order on Monday.,The group revised the request at the start of the week.
+798,The team completed the project before noon.,The group finished the assignment ahead of midday.
+799,The teacher announced the schedule on Monday.,The instructor made public the timetable at the start of the week.
+800,The team explained the project last week.,The group clarified the assignment in the previous week.
+801,The company announced the results last week.,The firm made public the findings in the previous week.
+802,The engineer rejected the new plan this morning.,The technician turned down the latest proposal earlier today.
+803,The manager completed the project yesterday.,The boss finished the assignment the day before.
+804,The teacher completed the design this morning.,The instructor finished the layout earlier today.
+805,The company approved the meeting before noon.,The firm signed off on the session ahead of midday.
+806,The doctor rejected the project on Monday.,The project was rejected by the doctor at the start of the week.
+807,The team prepared the budget before noon.,The group put together the financial plan ahead of midday.
+808,The team reviewed the order last week.,The group went over the request in the previous week.
+809,The teacher approved the budget before noon.,The instructor signed off on the financial plan ahead of midday.
+810,The chef prepared the project before noon.,The cook put together the assignment ahead of midday.
+811,The doctor updated the schedule this morning.,The schedule was updated by the doctor earlier today.
+812,The student explained the contract yesterday.,The pupil clarified the agreement the day before.
+813,The student completed the schedule on Monday.,The pupil finished the timetable at the start of the week.
+814,The teacher explained the meeting on Monday.,The meeting was explained by the teacher at the start of the week.
+815,The teacher explained the results on Monday.,The instructor clarified the findings at the start of the week.
+816,The customer rejected the design yesterday.,The client turned down the layout the day before.
+817,The manager submitted the meeting before noon.,The boss handed in the session ahead of midday.
+818,The doctor completed the meeting on Monday.,The meeting was completed by the doctor at the start of the week.
+819,The manager rejected the order yesterday.,The boss turned down the request the day before.
+820,The team announced the project yesterday.,The group made public the assignment the day before.
+821,The customer prepared the schedule last week.,The schedule was prepared by the customer in the previous week.
+822,The company prepared the design before noon.,The firm put together the layout ahead of midday.
+823,The student announced the meeting last week.,The pupil made public the session in the previous week.
+824,The manager explained the results before noon.,The boss clarified the findings ahead of midday.
+825,The company approved the new plan yesterday.,The firm signed off on the latest proposal the day before.
+826,The chef approved the report on Monday.,The cook signed off on the document at the start of the week.
+827,The engineer cancelled the budget yesterday.,The budget was cancelled by the engineer the day before.
+828,The customer completed the order on Monday.,The order was completed by the customer at the start of the week.
+829,The customer cancelled the schedule on Monday.,The client called off the timetable at the start of the week.
+830,The driver explained the report yesterday.,The chauffeur clarified the document the day before.
+831,The customer announced the order last week.,The client made public the request in the previous week.
+832,The chef explained the meeting yesterday.,The cook clarified the session the day before.
+833,The company completed the contract last week.,The contract was completed by the company in the previous week.
+834,The driver reviewed the results yesterday.,The results was reviewed by the driver the day before.
+835,The engineer completed the meeting on Monday.,The technician finished the session at the start of the week.
+836,The teacher explained the design last week.,The instructor clarified the layout in the previous week.
+837,The chef reviewed the project yesterday.,The cook went over the assignment the day before.
+838,The driver cancelled the report on Monday.,The report was cancelled by the driver at the start of the week.
+839,The company announced the project yesterday.,The firm made public the assignment the day before.
+840,The student announced the schedule last week.,The pupil made public the timetable in the previous week.
+841,The engineer prepared the schedule before noon.,The schedule was prepared by the engineer ahead of midday.
+842,The student updated the budget before noon.,The pupil revised the financial plan ahead of midday.
+843,The student cancelled the design this morning.,The design was cancelled by the student earlier today.
+844,The engineer announced the contract this morning.,The technician made public the agreement earlier today.
+845,The chef completed the design yesterday.,The cook finished the layout the day before.
+846,The team updated the contract yesterday.,The contract was updated by the team the day before.
+847,The driver reviewed the contract before noon.,The chauffeur went over the agreement ahead of midday.
+848,The customer reviewed the report before noon.,The report was reviewed by the customer ahead of midday.
+849,The doctor completed the budget last week.,The budget was completed by the doctor in the previous week.
+850,The chef cancelled the meeting on Monday.,The cook called off the session at the start of the week.
+851,The chef explained the schedule on Monday.,The cook clarified the timetable at the start of the week.
+852,The customer announced the order before noon.,The client made public the request ahead of midday.
+853,The student announced the project yesterday.,The pupil made public the assignment the day before.
+854,The chef completed the results yesterday.,The cook finished the findings the day before.
+855,The teacher updated the design on Monday.,The instructor revised the layout at the start of the week.
+856,The driver completed the results last week.,The results was completed by the driver in the previous week.
+857,The student approved the schedule yesterday.,The pupil signed off on the timetable the day before.
+858,The chef completed the schedule before noon.,The schedule was completed by the chef ahead of midday.
+859,The teacher cancelled the project before noon.,The instructor called off the assignment ahead of midday.
+860,The chef updated the report yesterday.,The cook revised the document the day before.
+861,The team cancelled the design on Monday.,The group called off the layout at the start of the week.
+862,The manager updated the meeting this morning.,The boss revised the session earlier today.
+863,The team reviewed the results this morning.,The group went over the findings earlier today.
+864,The company completed the meeting this morning.,The firm finished the session earlier today.
+865,The driver rejected the design last week.,The chauffeur turned down the layout in the previous week.
+866,The customer explained the order this morning.,The client clarified the request earlier today.
+867,The team prepared the results before noon.,The group put together the findings ahead of midday.
+868,The student cancelled the report this morning.,The report was cancelled by the student earlier today.
+869,The teacher explained the contract yesterday.,The instructor clarified the agreement the day before.
+870,The engineer rejected the contract yesterday.,The technician turned down the agreement the day before.
+871,The customer completed the design this morning.,The design was completed by the customer earlier today.
+872,The driver announced the order yesterday.,The chauffeur made public the request the day before.
+873,The company updated the project yesterday.,The firm revised the assignment the day before.
+874,The driver approved the results on Monday.,The results was approved by the driver at the start of the week.
+875,The student updated the design this morning.,The pupil revised the layout earlier today.
+876,The doctor completed the report yesterday.,The physician finished the document the day before.
+877,The doctor reviewed the meeting yesterday.,The physician went over the session the day before.
+878,The teacher cancelled the order yesterday.,The order was cancelled by the teacher the day before.
+879,The customer announced the schedule this morning.,The client made public the timetable earlier today.
+880,The doctor approved the report this morning.,The report was approved by the doctor earlier today.
+881,The driver explained the project on Monday.,The project was explained by the driver at the start of the week.
+882,The driver updated the order before noon.,The order was updated by the driver ahead of midday.
+883,The customer prepared the project this morning.,The project was prepared by the customer earlier today.
+884,The customer approved the schedule yesterday.,The schedule was approved by the customer the day before.
+885,The company submitted the order last week.,The order was submitted by the company in the previous week.
+886,The manager reviewed the budget this morning.,The boss went over the financial plan earlier today.
+887,The customer rejected the results last week.,The client turned down the findings in the previous week.
+888,The chef explained the new plan before noon.,The cook clarified the latest proposal ahead of midday.
+889,The team cancelled the budget on Monday.,The group called off the financial plan at the start of the week.
+890,The company updated the report before noon.,The report was updated by the company ahead of midday.
+891,The doctor prepared the order on Monday.,The physician put together the request at the start of the week.
+892,The team updated the meeting before noon.,The group revised the session ahead of midday.
+893,The doctor completed the report before noon.,The physician finished the document ahead of midday.
+894,The team submitted the schedule before noon.,The schedule was submitted by the team ahead of midday.
+895,The driver rejected the order before noon.,The chauffeur turned down the request ahead of midday.
+896,The engineer rejected the budget on Monday.,The budget was rejected by the engineer at the start of the week.
+897,The teacher updated the meeting this morning.,The instructor revised the session earlier today.
+898,The teacher rejected the order on Monday.,The order was rejected by the teacher at the start of the week.
+899,The chef rejected the meeting yesterday.,The cook turned down the session the day before.
+900,The chef prepared the meeting last week.,The cook put together the session in the previous week.
